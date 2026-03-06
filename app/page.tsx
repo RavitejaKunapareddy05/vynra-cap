@@ -963,7 +963,7 @@ export default function VynraCapitalHomePage() {
 
             {/* Brand col */}
             <div className="lg:col-span-2">
-              <div className="relative w-36 h-10 bg-[#111727] mb-6">
+              <div className="relative w-50 h-20 bg-[#111727] mb-6">
                 <Image src="/Vynra_Capital_Logo.png" alt="Vynra Capital" fill className="object-contain" />
               </div>
               <p className="text-white/40 text-sm leading-relaxed mb-6 max-w-xs">
@@ -1100,4 +1100,3 @@ export default function VynraCapitalHomePage() {
     </div>
   );
 }
-

@@ -737,7 +737,7 @@ export default function AboutPage() {
 
             {/* Brand col */}
             <div className="lg:col-span-2">
-              <div className="relative w-36 h-10 mb-6">
+              <div className="relative w-50 h-20 mb-6">
                 <Image src="/Vynra_Capital_Logo.png" alt="Vynra Capital" fill className="object-contain" />
               </div>
               <p className="text-white/40 text-sm leading-relaxed mb-6 max-w-xs">
